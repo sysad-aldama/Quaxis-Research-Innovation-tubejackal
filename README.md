@@ -16,9 +16,11 @@ You are beginning to really grasp computer vision and basic machine learnning co
 ##### ***Ex2: virtualenv jackal , activate the virtualenv and use pip to download pytube3
 
 ## Written by: Jp Aldama [Quaxis Corporation for Research & Innovation] 
-Email me at quaxiscorp@gmail.com if you would like to contribute or have a project where opensource contribution is encouraged.
+Email me at quaxiscorp@gmail.com if you would like to contribute or have projects where opensource contribution is encouraged.
 
-Use tubejackal as a quick tool alongside machine learning libraries
+Use tubejackal as a quick tool alongside machine learning libraries to rapidly build experimental datasets using Youtube as a data source
+
 I also highly recommend installing Anaconda for python 3.x NOT 2.x!
 
 ### ***Special thanks to https://twitter.com/hmartin the author of pytube3***
+#ASK FOR CONTENT CREATOR'S PERMISSION BEFORE JACKING PUBLIC VIDEOS. hint...Creative Commons... :-)
