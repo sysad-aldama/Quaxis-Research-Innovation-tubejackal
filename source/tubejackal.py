@@ -45,6 +45,5 @@ def progress_function(stream,chunk,bytes_remaining):
     sys.stdout.write('\r'+progress)
     
 if __name__ == '__main__':
-    url = sys.argv[1]
     jack_video(url)
     
