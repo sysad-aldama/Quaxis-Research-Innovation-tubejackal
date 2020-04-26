@@ -1,4 +1,7 @@
 # Quaxis-Research-Innovation-tubejackal
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/d0ca7ee7172447f6b56acca27c47be84)](https://app.codacy.com/manual/quaxiscorp/Quaxis-Research-Innovation-tubejackal?utm_source=github.com&utm_medium=referral&utm_content=sysad-aldama/Quaxis-Research-Innovation-tubejackal&utm_campaign=Badge_Grade_Dashboard)
+
 CLI tool for downloading youtube videos at its best available quality. Meant to be used with opencv. pytube3 is required. Run pip install pytube3 .
 
 ### Scenario
